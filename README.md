@@ -1,1 +1,1 @@
-# be-app-card-game
+# app-card-game-be
